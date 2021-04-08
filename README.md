@@ -1,4 +1,4 @@
 # cloudflare-worker-blog
 自建的基于cloudflare的个人博客
-
-其他人可以关闭了
+网址是www.arblog.tk
+里面有些功能网站，目前还是个小白。
